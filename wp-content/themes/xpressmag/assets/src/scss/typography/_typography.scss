@@ -1,0 +1,60 @@
+
+/* Lets define some heading properties */
+
+
+//  General Typo graphy setup 
+
+h1 {
+
+	font-size: 36px;
+}
+
+h2 {
+
+	font-size:32px;
+}
+
+h3 {
+
+	font-size:26px;
+}
+
+h4 {
+
+	font-size:24px;
+}
+
+h5 {
+
+	font-size:22px;
+}
+
+h6 {
+
+	font-size:18px;
+}
+
+// line-height 
+
+h1,h2,h3,h4,h5,h6, .h1,.h2,.h3,.h4,.h5,.h6  {
+
+
+	line-height:$body_heading_line_height;
+	font-family: $primary_font_family;
+	font-weight: $body_heading_font_weight;
+	padding: 0;
+	margin:0;
+}
+
+
+// Paragraph font size 
+
+p {
+	font-family:$secondary_font_family ;
+	font-size:$body_font_size;
+	line-height:$body_line_height;
+	font-style: normal;
+	padding: 0;
+	margin:0;
+	color:$general_text_color;
+}

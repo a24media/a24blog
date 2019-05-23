@@ -1,0 +1,796 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xpressmag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-09 08:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:36
+msgid "404"
+msgstr ""
+
+#: 404.php:37
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:41
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:42
+msgid "Click Here"
+msgstr ""
+
+#: 404.php:42
+msgid "to go back to homepage."
+msgstr ""
+
+#: archive.php:80 index.php:61 search.php:78
+msgid "Prev"
+msgstr ""
+
+#: archive.php:81 index.php:62 search.php:79
+msgid "Next"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#: functions.php:52
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:131
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:133 functions.php:143 functions.php:180 functions.php:200
+#: functions.php:210 functions.php:220 functions.php:230
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:141
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:151
+#, php-format
+msgid ""
+"Displays widgets on home page main content area.%1$s Note : Please go to "
+"%2$s \"Static Front Page\"%3$s setting, Select \"A static page\" then "
+"\"Front page\" and \"Posts page\" to show added widgets"
+msgstr ""
+
+#: functions.php:154
+msgid ""
+"Displays widgets on Front/Home page. Note : Please go to Setting => Reading, "
+"Select \"A static page\" then \"Front page\" and \"Posts page\" to show "
+"added widgets"
+msgstr ""
+
+#: functions.php:158
+msgid "Home 1 - Full Width Area"
+msgstr ""
+
+#: functions.php:168
+msgid "Home 2 - 3/1 Main Block Area"
+msgstr ""
+
+#: functions.php:178
+msgid "Home 3 - 1/4 Sidebar Block Area"
+msgstr ""
+
+#: functions.php:188
+msgid "Home 4 - Full Width Area"
+msgstr ""
+
+#: functions.php:198
+msgid "Home Header ADS Area"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer 1 - 1/3 Widget Area"
+msgstr ""
+
+#: functions.php:218
+msgid "Footer 2 - 1/3 Widget Area"
+msgstr ""
+
+#: functions.php:228
+msgid "Footer 3 - 1/3 Widget Area"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Roboto Condensed, translate this to 'off'. Do not translate into your own language.
+#: functions.php:258
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:266
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#. %s: search query.
+#: search.php:47
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#. Name of the template
+msgid "Xpressmag - Builder Page"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: offshorethemes/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: offshorethemes/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: offshorethemes/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: offshorethemes/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: offshorethemes/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:788 offshorethemes/breadcrumbs.php:817
+#: offshorethemes/breadcrumbs.php:844 offshorethemes/breadcrumbs.php:871
+#: offshorethemes/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:789 offshorethemes/breadcrumbs.php:845
+#: offshorethemes/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:790 offshorethemes/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: offshorethemes/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: offshorethemes/functions.php:108
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: offshorethemes/functions.php:111
+msgid "Offshore Themes"
+msgstr ""
+
+#: offshorethemes/functions.php:130
+msgid "Select Block Category "
+msgstr ""
+
+#: offshorethemes/functions.php:790
+msgid "Select Single Category"
+msgstr ""
+
+#: offshorethemes/functions.php:1008
+msgid "Delete"
+msgstr ""
+
+#: offshorethemes/functions.php:1009
+msgid "Close"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:25
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:34 template-parts/content-single.php:38
+#: offshorethemes/core/template-tags.php:148
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-single.php:56
+msgid "Tags"
+msgstr ""
+
+#. %d: number of comments
+#: offshorethemes/core/template-tags.php:42
+#, php-format
+msgid "%d "
+msgstr ""
+
+#: offshorethemes/core/template-tags.php:44
+msgid "1 "
+msgstr ""
+
+#. %s: post author.
+#: offshorethemes/core/template-tags.php:52
+#, php-format
+msgctxt "post author"
+msgid "by : %s"
+msgstr ""
+
+#. %s: post author.
+#: offshorethemes/core/template-tags.php:94
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/core/template-tags.php:111
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: offshorethemes/core/template-tags.php:114
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/core/template-tags.php:118
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: offshorethemes/core/template-tags.php:121
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: offshorethemes/core/template-tags.php:131
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:58
+msgid "General Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:72
+msgid "Website Layout"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:92
+msgid "WebSite Page Layout"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:95
+#: offshorethemes/customizer/customizer.php:766
+msgid "FullWidth Layout"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:96
+#: offshorethemes/customizer/customizer.php:767
+msgid "Boxed Layout"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:112
+msgid "Themes Colors Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:130
+msgid "Theme Primary Colors"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:147
+msgid "Main Header Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:159
+#: offshorethemes/customizer/customizer.php:185
+msgid "Top Header Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:186
+msgid "Enable/Disable option for top header section."
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:188
+#: offshorethemes/customizer/customizer.php:494
+#: offshorethemes/customizer/customizer.php:525
+#: offshorethemes/customizer/customizer.php:712
+#: offshorethemes/customizer/customizer.php:746
+msgid "Enable"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:189
+#: offshorethemes/customizer/customizer.php:495
+#: offshorethemes/customizer/customizer.php:526
+#: offshorethemes/customizer/customizer.php:713
+#: offshorethemes/customizer/customizer.php:747
+msgid "Disable"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:205
+msgid "Categories Colors Options"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:266
+msgid "Design Layout Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:280
+msgid "Archive/Category Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:304
+msgid "Archive/Category Sidebars"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:305
+#: offshorethemes/customizer/customizer.php:396
+#: offshorethemes/customizer/customizer.php:450
+#: offshorethemes/customizer/customizer.php:591
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:309
+#: offshorethemes/customizer/customizer.php:400
+#: offshorethemes/customizer/customizer.php:454
+#: offshorethemes/customizer/customizer.php:595
+msgid "Left Sidebar"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:313
+#: offshorethemes/customizer/customizer.php:404
+#: offshorethemes/customizer/customizer.php:458
+#: offshorethemes/customizer/customizer.php:599
+msgid "Right Sidebar"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:317
+#: offshorethemes/customizer/customizer.php:408
+#: offshorethemes/customizer/customizer.php:462
+#: offshorethemes/customizer/customizer.php:603
+msgid "No Sidebar"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:344
+msgid "Archive/Category Layouts"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:345
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:349
+msgid "Classic Layouts"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:353
+msgid "Grid Layouts"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:371
+msgid "Page Layout Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:395
+msgid "Page Sidebars"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:425
+msgid "Single Post Layout Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:449
+msgid "Post Sidebars"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:491
+msgid "Post Author Option"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:492
+msgid "Enable/Disable option for Author Post."
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:522
+msgid "Related Post Option"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:523
+msgid "Enable/Disable option for Related Post."
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:551
+msgid "Related Post Section Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:566
+msgid "Search Page Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:590
+msgid "Search Page Sidebars"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:620
+msgid "Social Media Links Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:649
+msgid "Sociala Media Link Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:652
+msgid "Social Media Icon"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:653
+msgid "Add Icon"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:659
+msgid "Social Media Logo"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:660
+msgid "Choose social media icon."
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:665
+msgid "Social Meida URL"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:666
+msgid "Enter social media url."
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:682
+msgid "Main Footer Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:709
+msgid "Footer Widgert Area Option"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:710
+msgid "Enable/Disable option for footer widget section."
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:731
+msgid "Footer Content (Copyright Text)"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:23
+msgid "Displays block posts from selected category in carousel slider layouts."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:26
+msgid "Xmag: Carousel Slider Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:41
+#: offshorethemes/widgets/xmag-fullwidth-slider-posts.php:39
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:39
+#: offshorethemes/widgets/xmag-recent-random-posts.php:37
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:39
+msgid "Block Layout Title"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:42
+#: offshorethemes/widgets/xmag-fullwidth-slider-posts.php:40
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:40
+#: offshorethemes/widgets/xmag-recent-random-posts.php:38
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:40
+msgid "Enter your block title. (Optional - Leave blank to hide the title.)"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:48
+#: offshorethemes/widgets/xmag-fullwidth-slider-posts.php:46
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:46
+msgid "Select Block Category"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:55
+#: offshorethemes/widgets/xmag-featured-block-posts.php:48
+#: offshorethemes/widgets/xmag-fullwidth-slider-posts.php:54
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:54
+#: offshorethemes/widgets/xmag-recent-random-posts.php:44
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:46
+msgid "No. of Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-carousel-slider-posts.php:62
+msgid "Block Layouts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-featured-block-posts.php:21
+msgid ""
+"Displays posts from selected categories in the slider with the featured "
+"section."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-featured-block-posts.php:24
+msgid "Xmag: Features Block Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-featured-block-posts.php:41
+msgid "Featured Slider Posts Categories"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-featured-block-posts.php:55
+msgid "Select Features Posts Category"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-featured-block-posts.php:63
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:61
+msgid "Select Block Display Layouts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-fullwidth-slider-posts.php:21
+msgid "Displays block posts from selected category in full slider layouts."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-fullwidth-slider-posts.php:24
+msgid "Xmag: Full Slider Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:21
+msgid "Displays block posts from selected category in different layouts."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-multiple-block-posts.php:24
+msgid "Xmag: Multiple Block Layout"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-recent-random-posts.php:21
+msgid "Displays recent and random posts from all list posts."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-recent-random-posts.php:24
+msgid "Xmag: Recent & Random Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-recent-random-posts.php:51
+msgid "Choose Posts Options"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-social-media.php:20
+msgid "A widget shows the social media icons."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-social-media.php:22
+msgid "Xmag: Social Media Link"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-social-media.php:35
+msgid "Social Media Link Title"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:21
+msgid "Widget display popular, recent, comment"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:24
+msgid "Xmag: Popular / Tags / Comments"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:39
+msgid "Checked To Disable Polular Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:45
+msgid "Popular Posts Title"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:51
+msgid "Checked To Disable Comments"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:57
+msgid "Comments Title"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:63
+msgid "Checked To Disable Tags"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:69
+msgid "Tags Title"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:75
+msgid "Enter Display Number of Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:206
+msgid "No comments found."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-tabbed.php:221
+msgid "No tags created."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:21
+msgid "Displays block posts from selected category in timeline layouts."
+msgstr ""
+
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:24
+msgid "Xmag: Timeline Posts"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:53
+msgid "Select Posts Categories"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-timeline-block-posts.php:60
+msgid "Choose Posts Display Order"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-widget-fields.php:196
+msgid "No image selected"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-widget-fields.php:203
+msgid "Remove"
+msgstr ""
+
+#: offshorethemes/widgets/xmag-widget-fields.php:204
+msgid "Select Image"
+msgstr ""
+
+#. Name of the theme
+msgid "xpressmag"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"xpressmag is an ultra-fast clean and best responsive free WordPress magazine "
+"theme, xpressmag specially designed for magazine, newspaper, news portals, "
+"and editorial style websites. xpressmag theme design flat, minimalist, "
+"magazine style homepage Design with full post banner and carousel slider "
+"with latest posts, and different custom widget design layout. multiple "
+"design layout categories, tags, archive pages with sidebars and Ads widgets. "
+"the theme has 8+ different drag and drops widget and 8+ widget area that "
+"allows adding many sections as you want with various beautifully designed "
+"layouts suitable for websites. an xpressmag theme is completely built on "
+"customizer which allows you to customize most of the theme settings easily "
+"with live previews, xpressmag full supports different 3rd party plugins and "
+"fully compatible with Jetpack, Contact Form 7, AccessPress Social Share, "
+"AccessPress Social Counter many more."
+msgstr ""
+
+#. URI of the theme
+msgid "https://offshorethemes.com/wordpress-themes/xpressmag/"
+msgstr ""
+
+#. Author of the theme
+msgid "offshorethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://offshorethemes.com/"
+msgstr ""

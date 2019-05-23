@@ -1,0 +1,41 @@
+.xpressmag-info-wrap .xpressmag-section .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.xpressmag-info-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.xpressmag-info-wrap h1 {
+	font-size: 2em;
+}
+
+.xpressmag-info-wrap h3 {
+	font-size: 1.2em;
+}
+
+.xpressmag-info-wrap .xpressmag-section-useful-plugins,
+.xpressmag-info-wrap .xpressmag-section-upgrade-to-pro,
+.xpressmag-info-wrap .xpressmag-section-demo-content {
+	margin-top: 50px;
+}
+
+.xpressmag-info-wrap .tab-upgrade-to-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.xpressmag-info-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.xpressmag-info-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.xpressmag-info-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}

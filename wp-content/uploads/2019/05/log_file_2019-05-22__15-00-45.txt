@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+MAX EXECUTION TIME = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/05/demo-content-import-file_2019-05-22__15-00-45.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importing content---
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "9jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "10jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "11jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "12jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "13jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "14jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "15jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "16jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "17jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "18jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "19jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+[ERROR] Failed to import "20jpg" (Media)
+[ERROR] cURL error 6: Could not resolve host: s3-us-west-2.amazonaws.com
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---Debugging---
+After importing the media files from the XML
+
+---Completed---
+The Demo has been imported in 1.0132489204407econds.

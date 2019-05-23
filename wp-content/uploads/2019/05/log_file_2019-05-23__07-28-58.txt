@@ -1,0 +1,102 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+MAX EXECUTION TIME = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/05/demo-content-import-file_2019-05-23__07-28-58.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to s3-us-west-2.amazonaws.com:443 
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 3
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 4
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 5
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] cURL error 28: Operation timed out after 60000 milliseconds with 0 out of 130893423312896 bytes received
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 6
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] cURL error 28: Operation timed out after 10000 milliseconds with 0 out of 0 bytes received
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 7
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 8
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 9
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 10
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importing content---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---Debugging---
+After importing the media files from the XML
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completed---
+The Demo has been imported in 167.82903504372econds.
